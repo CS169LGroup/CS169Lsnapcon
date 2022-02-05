@@ -16,23 +16,3 @@ project:
       name: 'Joshua'
       surname: 'Bae' 
       githubUsername: 'josh-bae'
-    member3:
-      name: 'Myriam'
-      surname: 'Aviles' 
-      githubUsername: 'myriampaviles@berkeley.edu'
-    member4:
-      name: 'Zhuowen'
-      surname: 'Chen' 
-      githubUsername: 'Syakmoon'
-    member5:
-      name: 'Huy'
-      surname: 'Do' 
-      githubUsername: 'huydocs19'
-    member6:
-      name: 'Priyanka'
-      surname: 'Goswami' 
-      githubUsername: 'mepriyanka.goswami@berkeley.edu'
-    member7:
-      name: 'Philip'
-      surname: 'Green' 
-      githubUsername: 'yewchung@berkeley.edu'
