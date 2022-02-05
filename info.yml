@@ -1,0 +1,38 @@
+project:
+  name: 'q2q'
+  owner: 'CS169L-22'
+  teamId: 'Snap!Con'
+  identities:
+    pivotal: 'https://www.pivotaltracker.com/n/projects/2552863'
+    heroku: 'https://enigmatic-reef-42328.herokuapp.com/'
+  members:
+    member1:
+      name: 'Governify'
+      surname: 'Auditor' 
+      githubUsername: 'governifyauditor'
+      pivotalUsername: 'governifyauditor'
+      herokuEmail: 'governify.auditor@gmail.com'
+    member2:
+      name: 'Joshua'
+      surname: 'Bae' 
+      githubUsername: 'josh-bae'
+    member3:
+      name: 'Myriam'
+      surname: 'Aviles' 
+      githubUsername: 'myriampaviles@berkeley.edu'
+    member4:
+      name: 'Zhuowen'
+      surname: 'Chen' 
+      githubUsername: 'Syakmoon'
+    member5:
+      name: 'Huy'
+      surname: 'Do' 
+      githubUsername: 'huydocs19'
+    member6:
+      name: 'Priyanka'
+      surname: 'Goswami' 
+      githubUsername: 'mepriyanka.goswami@berkeley.edu'
+    member7:
+      name: 'Philip'
+      surname: 'Green' 
+      githubUsername: 'yewchung@berkeley.edu'
